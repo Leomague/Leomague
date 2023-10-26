@@ -18,6 +18,4 @@ Da geração MILLENNIAL em cenário pós pandemia e evolução da tecnologia IA 
 > Your future is created by what you do today, not tomorrow - Robert T. Kiyosaki
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomague)](https://github.com/Leomague)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomague&layout=compact)](https://github.com/Leomague)
