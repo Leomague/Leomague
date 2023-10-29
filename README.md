@@ -2,7 +2,8 @@
 Da geração MILLENNIAL em cenário pós pandemia e evolução da tecnologia IA aprendendo a desenvolver aplicações web.
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leandro-magalhaes-leomague/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](maito:ldmagallaes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ldmagallaes@gmail.com?subject=Assunto%20do%20Email&body=Ol%C3%A1%2C%0A%0AEscreva%20sua%20mensagem%20aqui.)
+
 ### Hards Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)
