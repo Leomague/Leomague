@@ -1,5 +1,5 @@
 # HELLO WORLD />
-Da geração MILLENNIAL em cenário de evolução da tecnologia IA aprendendo a desenvolver aplicações web.
+Entre códigos e neurônios artificiais: um millennial na era da IA.
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leandro-magalhaes-leomague/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ldmagallaes@gmail.com?subject=Assunto%20do%20Email&body=Ol%C3%A1%2C%0A%0AEscreva%20sua%20mensagem%20aqui.)
