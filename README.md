@@ -1,4 +1,4 @@
-# HELLO WORLD />
+# HELLO, WORLD 🌍💻 />
 ### *Entre códigos e neurônios artificiais: um millennial na era da IA.*
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leandro-magalhaes-leomague/)
