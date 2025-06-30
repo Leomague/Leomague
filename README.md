@@ -16,8 +16,13 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black)
 
+
+### GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomague&layout=compact)](https://github.com/Leomague)
+
+
  > *"Your future is created by what you do today, not tomorrow."*  
 > — Robert T. Kiyosaki
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomague&layout=compact)](https://github.com/Leomague)
+
